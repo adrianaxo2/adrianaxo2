@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#ugggh, goals for teh 2026 year
 <!--
 **adrianaxo2/adrianaxo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
