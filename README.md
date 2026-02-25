@@ -3,39 +3,29 @@
 **MS-MIS @ Texas A&M University**  
 **Infrastructure • Technical Program / Project Management • Security-minded**
 
-I work at the intersection of **cloud infrastructure, systems, and program execution**, with a focus on building reliable, well-structured processes that help technical teams deliver.
+I bridge the gap between **technical systems and execution** — helping teams design, organize, and deliver cloud and infrastructure work clearly and reliably.
 
 ---
 
-## 🔧 System Focus
-
-- **Cloud & Infrastructure:** AWS, networking, databases  
-- **Program Execution:** process optimization, cross-functional coordination  
-- **Security:** fundamentals, risk & policy awareness  
-- **Currently:** building a consistent, infrastructure-focused GitHub portfolio
+## 🚀 What I Do Best
+- Turn **complex technical work** into structured, executable plans  
+- Support **cloud & infrastructure projects** with strong process and coordination  
+- Bring **security awareness** into system and program decisions  
 
 ---
 
-## 🧰 Technical Toolbox
-
-**Cloud**
-- AWS (EC2, VPC, IAM), LAMP stack
-
-**Systems & Data**
-- Linux, MariaDB, SQL
-
-**Program & Tools**
-- GitHub, Smartsheet, Microsoft 365
-
-**Security**
-- Cybersecurity fundamentals, risk & policy awareness
+## 🛠️ Technical Strengths
+- **Cloud:** AWS (EC2, VPC, IAM), LAMP
+- **Systems & Data:** Linux, MariaDB, SQL
+- **Program Tools:** GitHub, Smartsheet, Microsoft 365
+- **Security:** fundamentals, risk & policy awareness
 
 ---
 
-## 🎯 2026 Goals
-- Deepen cloud and infrastructure expertise  
-- Ship end-to-end technical projects  
-- Contribute to security-focused repositories  
+## 🎯 Current Focus
+- Building hands-on cloud & infrastructure projects  
+- Strengthening systems and networking fundamentals  
+- Developing a clean, consistent GitHub portfolio  
 
 ---
 
@@ -45,16 +35,11 @@ _Automated via GitHub Actions_
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub contribution activity animation" 
+  <img alt="GitHub contribution activity" 
        src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-## 📫 Connect with me
+## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/adrianatamu/
