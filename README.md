@@ -31,12 +31,13 @@
   </a>
 </div>
 
-<!-- STACK -->
+---
 
+<!-- STACK -->
 <div align="center">
   <h3>▸ Stack</h3>
-<hr />
- <table>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
       <td align="center" valign="top" width="50%">
         <b>☁️ Cloud</b><br /><br />
@@ -48,31 +49,33 @@
       </td>
     </tr>
     <tr>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="50%">
         <b>🛠️ Tools</b><br /><br />
         GitHub Actions · Smartsheet · Jira · Confluence · Grafana · Postman · Microsoft 365
       </td>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="50%">
         <b>🤖 AI</b><br /><br />
         Generative AI · Prompt Engineering · AI for Productivity · AI in Workflows
       </td>
     </tr>
     <tr>
-      <td align="center" valign="top" colspan="2">
-        <b>📌 Certifications </b><br /><br />
+      <td align="center" valign="top" width="50%">
+        <b>📌 Certifications</b><br /><br />
         CompTIA Security+<br />
-        AWS Certified Cloud Practitioner
-        <!-- intentionally blank to keep the grid balanced -->
+      </td>
+      <td align="center" valign="top" width="50%">
+        <b>🚧 Education </b><br /><br />
+        working on updateing
       </td>
     </tr>
   </table>
 </div>
 
+---
 
 <!-- ACTIVITY -->
 <div align="center">
   <h3>▸ Activity</h3>
-  <hr />
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ff4da6&area=true&area_color=2d0020&hide_border=true&radius=6"
@@ -89,7 +92,7 @@
   />
 </div>
 
-<hr />
+---
 
 <!-- FOOTER -->
 <div align="center">
