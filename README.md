@@ -34,8 +34,6 @@ I sit at the intersection of **cloud infrastructure, systems thinking, and progr
 ## 💫 Activity
 <img src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg" width="100%" />
 
-![Contribution animation](https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg)
-
 
 ---
 
