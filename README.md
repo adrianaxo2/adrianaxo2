@@ -1,16 +1,16 @@
-<!-- HEADER BANNER — one visual statement, no clutter -->
+<!-- HEADER BANNER -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0020,100:0d1117&height=200&section=header&text=ADRIANA%20GUERRERO&fontSize=58&fontColor=ff4da6&animation=twinkling&fontAlignY=52&desc=Infrastructure%20%E2%80%A2%20Systems%20%E2%80%A2%20Program%20Execution&descSize=14&descAlignY=72&descColor=b83273&stroke=ff4da6&strokeWidth=1" width="100%"/>
 </div>
 
-<!-- TYPING LINE — one clean rotating line -->
+<!-- TYPING LINE -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=600&lines=Technical+Program+Manager+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+Systems+%7C+Security-Minded+%7C+MS-MIS+%40+Texas+A%26M;Building+reliable+infrastructure+with+intention" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=Technical+Program+Manager+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+Systems+%7C+Security-Minded+%7C+MS-MIS+%40+Texas+A%26M;Building+reliable+infrastructure+with+intention" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- BADGES — confident, minimal. No visitor counter. -->
+<!-- BADGES -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/adrianatamu)
@@ -20,15 +20,22 @@
 
 ---
 
-I build and operate cloud and systems infrastructure with a program mindset —
-focusing on reliability, clarity, and execution at scale.
+<div align="center">
+
+### `> I build infrastructure that just works.`
+
+**Cloud · Systems · Program Execution · Security**
+
+*Reliability, clarity, and execution at scale — with intention.*
+
+</div>
 
 ---
 
-## Technical Focus
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=9999&pause=9999&color=ff4da6&vCenter=true&width=220&lines=%E2%96%B8+Technical+Focus" alt="Technical Focus"/>
 
 <details>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<summary>&nbsp;<b>☁️ &nbsp;Cloud &amp; Infrastructure</b></summary>
 <br/>
 
 ![AWS EC2](https://img.shields.io/badge/EC2-ff4da6?style=flat-square&logo=amazon-ec2&logoColor=white&labelColor=0d1117)
@@ -40,7 +47,7 @@ focusing on reliability, clarity, and execution at scale.
 </details>
 
 <details>
-<summary><b>🗄️ Systems & Data</b></summary>
+<summary>&nbsp;<b>🗄️ &nbsp;Systems &amp; Data</b></summary>
 <br/>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&logo=mariadb&logoColor=white&labelColor=0d1117)
@@ -50,7 +57,7 @@ focusing on reliability, clarity, and execution at scale.
 </details>
 
 <details>
-<summary><b>📋 Program Execution</b></summary>
+<summary>&nbsp;<b>📋 &nbsp;Program Execution</b></summary>
 <br/>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&logo=github-actions&logoColor=white&labelColor=0d1117)
@@ -60,25 +67,38 @@ focusing on reliability, clarity, and execution at scale.
 </details>
 
 <details>
-<summary><b>🔐 Security & Risk</b></summary>
+<summary>&nbsp;<b>🔐 &nbsp;Security &amp; Risk</b></summary>
 <br/>
 
-![Risk Awareness](https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d1117)
+![Risk & Policy](https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d1117)
 ![Access Control](https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0d1117)
-![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&logo=shieldsdotio&logoColor=white&labelColor=0d1117)
+![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&logo=datadog&logoColor=white&labelColor=0d1117)
 
 </details>
 
 ---
 
-I'm Adriana — a technical program manager who builds infrastructure that just works.
+<!-- WHO I AM — pink left border via HTML blockquote trick -->
+<div align="center">
 
-I focus on bridging systems complexity and execution clarity, designing solutions
-that are resilient, documented, and intentional.
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   I'm Adriana — a technical program manager who builds              │
+│   infrastructure that just works.                                   │
+│                                                                     │
+│   I bridge systems complexity and execution clarity,                │
+│   designing solutions that are resilient, documented,               │
+│   and intentional.                                                  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 2026
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=9999&pause=9999&color=ff4da6&vCenter=true&width=100&lines=%E2%96%B8+2026" alt="2026"/>
 
 ```bash
 $ ./current_mission.sh
@@ -92,7 +112,7 @@ $ ./current_mission.sh
 
 ---
 
-## 🧬 Building in Public
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=9999&pause=9999&color=ff4da6&vCenter=true&width=260&lines=%F0%9F%A7%AC+Building+in+Public" alt="Building in Public"/>
 
 <div align="center">
 
@@ -109,7 +129,6 @@ $ ./current_mission.sh
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaxo2&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4da6&text_color=c9d1d9" height="145"/>
 
 <br/><br/>
-
 <sub>Automated via GitHub Actions &nbsp;·&nbsp; Updated daily</sub>
 
 </div>
