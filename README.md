@@ -20,6 +20,10 @@
 - Build a consistent GitHub project portfolio  
 - Contribute to technical and security-focused repositories  
 
+### 📊 GitHub Snapshot
+![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianaxo2&show_icons=true&theme=rose_pine)
+
+
 📫 **Connect with me:**  
 - LinkedIn: https://www.linkedin.com/in/adrianatamu/
 <!--
