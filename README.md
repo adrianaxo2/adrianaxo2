@@ -1,6 +1,16 @@
-<!-- HEADER BANNER (HEART) -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=heart&color=0:0d1117,45:ff4da6,100:ff80c0&height=220&section=header&text=ADRIANA%20GUERRERO&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=44&desc=Infrastructure%20%E2%80%A2%20Systems%20%E2%80%A2%20Program%20Execution&descSize=14&descAlignY=72&descColor=ffe0ef" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff4da6,50:c2185b,100:ff80c0&height=200&section=header&text=ADRIANA%20GUERRERO&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=52&desc=Infrastructure%20%E2%80%A2%20Systems%20%E2%80%A2%20Program%20Execution&descSize=14&descAlignY=72&descColor=ffe0ef&stroke=ffffff&strokeWidth=1" width="100%"/>
+</div>
+<!-- TYPING LINE -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=Technical+Program+Manager+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+Systems+%7C+Security-Minded+%7C+MS-MIS+%40+Texas+A%26M;Building+reliable+infrastructure+with+intention" alt="Typing SVG" />
+</div>
+<br/>
+<!-- BADGES -->
+<div align="center">
+Show Image
+Show Image
 </div>
 
 <!-- TYPING LINE -->
