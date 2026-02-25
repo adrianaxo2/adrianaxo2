@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=180&section=header&text=ADRIANA%20GUERRERO&fontSize=58&fontColor=ff4da6&animation=twinkling&fontAlignY=50&desc=Infrastructure%20%E2%80%A2%20Systems%20%E2%80%A2%20Program%20Execution&descSize=14&descAlignY=68&descColor=ff80c0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff4da6,50:c2185b,100:ff80c0&height=200&section=header&text=ADRIANA%20GUERRERO&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=52&desc=Infrastructure%20%E2%80%A2%20Systems%20%E2%80%A2%20Program%20Execution&descSize=14&descAlignY=72&descColor=ffe0ef&stroke=ffffff&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- TYPING LINE -->
