@@ -22,43 +22,73 @@
 
 ### ▸ Stack
 
-**Cloud & Infrastructure**
+![Cloud](https://img.shields.io/badge/─────%20Cloud%20&%20Infra%20─────-161b22?style=flat-square&logoColor=ff4da6&labelColor=161b22&color=ff4da6)
 
 ![EC2](https://img.shields.io/badge/EC2-ff4da6?style=flat-square&logo=amazon-ec2&logoColor=white&labelColor=161b22)
 ![VPC](https://img.shields.io/badge/VPC-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22)
 ![IAM](https://img.shields.io/badge/IAM-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22)
-![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22)
+![LAMP](https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22)
 ![Linux](https://img.shields.io/badge/Linux-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22)
 
-**Languages**
+![Languages](https://img.shields.io/badge/─────%20Languages%20─────-161b22?style=flat-square&logoColor=ff4da6&labelColor=161b22&color=ff4da6)
 
 ![Python](https://img.shields.io/badge/Python-ff4da6?style=flat-square&logo=python&logoColor=white&labelColor=161b22)
 ![HTML](https://img.shields.io/badge/HTML-ff4da6?style=flat-square&logo=html5&logoColor=white&labelColor=161b22)
 ![CSS](https://img.shields.io/badge/CSS-ff4da6?style=flat-square&logo=css3&logoColor=white&labelColor=161b22)
 ![Bash](https://img.shields.io/badge/Bash-ff4da6?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=161b22)
-
-**Data & Systems**
-
-![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&logo=mariadb&logoColor=white&labelColor=161b22)
 ![SQL](https://img.shields.io/badge/SQL-ff4da6?style=flat-square&logo=postgresql&logoColor=white&labelColor=161b22)
+![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&logo=mariadb&logoColor=white&labelColor=161b22)
 
-**Tools & Execution**
+![Tools](https://img.shields.io/badge/─────%20Tools%20&%20Security%20─────-161b22?style=flat-square&logoColor=ff4da6&labelColor=161b22&color=ff4da6)
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&logo=github-actions&logoColor=white&labelColor=161b22)
 ![Smartsheet](https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&logo=smartsheet&logoColor=white&labelColor=161b22)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&logo=microsoft&logoColor=white&labelColor=161b22)
-
-**Security**
-
 ![Risk & Policy](https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&logo=hackthebox&logoColor=white&labelColor=161b22)
 ![Access Control](https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22)
-![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&logo=datadog&logoColor=white&labelColor=161b22)
 
 </div>
 
+---
 
-<!-- FOOTER -->
 <div align="center">
+
+### ▸ 2026
+
+```bash
+$ ./current_mission.sh
+
+[+] Deepening cloud & infrastructure expertise
+[+] Shipping end-to-end technical projects
+[+] Contributing to security-focused repos
+
+> Status: EXECUTING ▓▓▓▓▓▓░░░░ 65%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ▸ Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ff4da6&area=true&area_color=2d0020&hide_border=true&radius=6" width="100%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=adrianaxo2&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=666666&stroke=ff4da6&sideNums=ffffff&currStreakNum=ffffff" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=adrianaxo2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&ring_color=ff4da6" height="160"/>
+
+</div>
+
+---
+<div align="center">
+
+`TPM · Cloud Infrastructure · Systems · Security · MS-MIS @ Texas A&M · she/her · Texas, USA`
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff80c0,100:c2185b&height=90&section=footer&animation=twinkling" width="100%"/>
 </div>
