@@ -10,7 +10,7 @@
 <!-- TYPING (no bullets) -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2600&pause=900&color=ff4da6&center=true&vCenter=true&width=760&lines=Cloud+%2B+Infrastructure+%7C+Systems+%7C+Security-Minded+TPM;AWS+%7C+Networking+%7C+Linux+%7C+SQL+%7C+Automation;Building+scalable+processes+and+clean+execution"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2600&pause=900&color=ff4da6&center=true&vCenter=true&width=760&lines=Cloud+%2B+Infrastructure+%7C+Systems+%7C+Security;AWS+%7C+Networking+%7C+Linux+%7C+SQL+%7C+Automation"
     alt="Typing Intro"
   />
 </div>
