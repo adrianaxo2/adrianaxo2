@@ -64,8 +64,8 @@
         CompTIA Security+<br />
       </td>
       <td align="center" valign="top" width="50%">
-        <b>🚧 Education </b><br /><br />
-        working on updateing
+        <b> ⭐What I Build </b><br /><br />
+        working on updating this atm
       </td>
     </tr>
   </table>
