@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi, I’m Adriana Guerrero 👋
 
 🎓 Graduate student at Texas A&M University (MS-MIS)  
