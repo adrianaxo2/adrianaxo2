@@ -43,6 +43,13 @@ I work at the intersection of **cloud infrastructure, systems, and program execu
 _Automated via GitHub Actions_
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution activity animation" 
+       src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake-dark.svg" />
   <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake.svg" />
 </picture>
