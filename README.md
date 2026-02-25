@@ -18,14 +18,18 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/adrianatamu">
-    <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:adrianaw224@tamu.edu">
-    <img src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
+    <img
+      src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22"
+      alt="Email"
+    />
   </a>
 </div>
-
----
 
 <!-- STACK -->
 <div align="center">
@@ -33,49 +37,44 @@
 
   <div>
     <p><b>☁️ Cloud</b></p>
-    <img src="https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22" />
-  </div>
+    <p>
+      <img src="https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22" alt="EC2" />
+      <img src="https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22" alt="VPC" />
+      <img src="https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22" alt="IAM" />
+      <img src="https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22" alt="LAMP" />
+      <img src="https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22" alt="Linux" />
+    </p>
 
-  <br />
-
-  <div>
     <p><b>✨ Languages</b></p>
-    <img src="https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22" />
-  </div>
+    <p>
+      <img src="https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22" alt="CSS" />
+      <img src="https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22" alt="Bash" />
+      <img src="https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22" alt="SQL" />
+      <img src="https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22" alt="MariaDB" />
+    </p>
 
-  <br />
-
-  <div>
     <p><b>🛠️ Tools</b></p>
-    <img src="https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Jira-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Confluence-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Grafana-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Postman-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22" />
-  </div>
+    <p>
+      <img src="https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22" alt="Smartsheet" />
+      <img src="https://img.shields.io/badge/Jira-ff4da6?style=flat-square&labelColor=161b22" alt="Jira" />
+      <img src="https://img.shields.io/badge/Confluence-ff4da6?style=flat-square&labelColor=161b22" alt="Confluence" />
+      <img src="https://img.shields.io/badge/Grafana-ff4da6?style=flat-square&labelColor=161b22" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Postman-ff4da6?style=flat-square&labelColor=161b22" alt="Postman" />
+      <img src="https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22" alt="Microsoft 365" />
+    </p>
 
-  <br />
-
-  <div>
     <p><b>💌 Security</b></p>
-    <img src="https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22" />
-    <img src="https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22" />
+    <p>
+      <img src="https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22" alt="Risk & Policy" />
+      <img src="https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22" alt="Access Control" />
+      <img src="https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22" alt="Security Fundamentals" />
+    </p>
   </div>
 </div>
 
----
 
 <!-- ACTIVITY -->
 <div align="center">
@@ -84,6 +83,7 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ff4da6&area=true&area_color=2d0020&hide_border=true&radius=6"
     width="100%"
+    alt="Contribution Graph"
   />
 
   <br /><br />
@@ -91,10 +91,11 @@
   <img
     src="https://streak-stats.demolab.com?user=adrianaxo2&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=666666&stroke=ff4da6&sideNums=ffffff&currStreakNum=ffffff"
     height="160"
+    alt="GitHub Streak"
   />
 </div>
 
----
+<hr />
 
 <!-- FOOTER -->
 <div align="center">
