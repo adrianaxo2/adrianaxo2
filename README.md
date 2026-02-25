@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=AWS+Infrastructure+%7C+EC2+%7C+VPC+%7C+IAM+%7C+LAMP"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=AWS+%7C+EC2+%7C+VPC+%7C+IAM+%7C+LAMP+Stack"
     alt="Typing Intro"
   />
 </div>
