@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+EC2+%7C+VPC+%7C+IAM+%7C+LAMP+Stack"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=+%E2%80%A2+AWS+%7C+EC2+%7C+VPC+%7C+IAM+%7C+LAMP+Stack"
     alt="Typing Intro"
   />
 </div>
@@ -54,7 +54,7 @@
         GitHub Actions · Smartsheet · Jira · Confluence · Grafana · Postman · Microsoft 365
       </td>
       <td align="center" valign="top" width="50%">
-        <b>🤖 AI</b><br /><br />
+        <b>👾 AI</b><br /><br />
         Generative AI · Prompt Engineering · AI for Productivity · AI in Workflows
       </td>
     </tr>
