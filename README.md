@@ -40,7 +40,10 @@ Fundamentals, risk & policy awareness
 
 ---
 
-## 💫 Momentum
+### 🧬 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg" alt="Contribution Snake"/>
+</p>
 <img src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg" width="100%" />
 
 ---
