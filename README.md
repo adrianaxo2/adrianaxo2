@@ -18,54 +18,14 @@
 
 ---
 
-<div align="center">
-
 ### ▸ Stack
 
-![Cloud](https://img.shields.io/badge/─────%20Cloud%20&%20Infra%20─────-161b22?style=flat-square&logoColor=ff4da6&labelColor=161b22&color=ff4da6)
-
-![EC2](https://img.shields.io/badge/EC2-ff4da6?style=flat-square&logo=amazon-ec2&logoColor=white&labelColor=161b22)
-![VPC](https://img.shields.io/badge/VPC-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22)
-![IAM](https://img.shields.io/badge/IAM-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22)
-![LAMP](https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22)
-![Linux](https://img.shields.io/badge/Linux-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22)
-
-![Languages](https://img.shields.io/badge/─────%20Languages%20─────-161b22?style=flat-square&logoColor=ff4da6&labelColor=161b22&color=ff4da6)
-
-![Python](https://img.shields.io/badge/Python-ff4da6?style=flat-square&logo=python&logoColor=white&labelColor=161b22)
-![HTML](https://img.shields.io/badge/HTML-ff4da6?style=flat-square&logo=html5&logoColor=white&labelColor=161b22)
-![CSS](https://img.shields.io/badge/CSS-ff4da6?style=flat-square&logo=css3&logoColor=white&labelColor=161b22)
-![Bash](https://img.shields.io/badge/Bash-ff4da6?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=161b22)
-![SQL](https://img.shields.io/badge/SQL-ff4da6?style=flat-square&logo=postgresql&logoColor=white&labelColor=161b22)
-![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&logo=mariadb&logoColor=white&labelColor=161b22)
-
-![Tools](https://img.shields.io/badge/─────%20Tools%20&%20Security%20─────-161b22?style=flat-square&logoColor=ff4da6&labelColor=161b22&color=ff4da6)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&logo=github-actions&logoColor=white&labelColor=161b22)
-![Smartsheet](https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&logo=smartsheet&logoColor=white&labelColor=161b22)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&logo=microsoft&logoColor=white&labelColor=161b22)
-![Risk & Policy](https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&logo=hackthebox&logoColor=white&labelColor=161b22)
-![Access Control](https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22)
-
-</div>
-
----
-
-<div align="center">
-
-### ▸ 2026
-
-```bash
-$ ./current_mission.sh
-
-[+] Deepening cloud & infrastructure expertise
-[+] Shipping end-to-end technical projects
-[+] Contributing to security-focused repos
-
-> Status: EXECUTING ▓▓▓▓▓▓░░░░ 65%
-```
-
-</div>
+| | |
+|---|---|
+| **Cloud** | ![EC2](https://img.shields.io/badge/EC2-ff4da6?style=flat-square&logo=amazon-ec2&logoColor=white&labelColor=161b22) ![VPC](https://img.shields.io/badge/VPC-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22) ![IAM](https://img.shields.io/badge/IAM-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22) ![LAMP](https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22) ![Linux](https://img.shields.io/badge/Linux-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-ff4da6?style=flat-square&logo=python&logoColor=white&labelColor=161b22) ![HTML](https://img.shields.io/badge/HTML-ff4da6?style=flat-square&logo=html5&logoColor=white&labelColor=161b22) ![CSS](https://img.shields.io/badge/CSS-ff4da6?style=flat-square&logo=css3&logoColor=white&labelColor=161b22) ![Bash](https://img.shields.io/badge/Bash-ff4da6?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=161b22) ![SQL](https://img.shields.io/badge/SQL-ff4da6?style=flat-square&logo=postgresql&logoColor=white&labelColor=161b22) ![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&logo=mariadb&logoColor=white&labelColor=161b22) |
+| **Tools** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&logo=github-actions&logoColor=white&labelColor=161b22) ![Smartsheet](https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&logo=smartsheet&logoColor=white&labelColor=161b22) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&logo=microsoft&logoColor=white&labelColor=161b22) |
+| **Security** | ![Risk & Policy](https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&logo=hackthebox&logoColor=white&labelColor=161b22) ![Access Control](https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22) ![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&logo=datadog&logoColor=white&labelColor=161b22) |
 
 ---
 
