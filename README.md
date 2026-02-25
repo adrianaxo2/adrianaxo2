@@ -21,7 +21,7 @@
 - Contribute to technical and security-focused repositories  
 
 ### 📊 GitHub Snapshot
-![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianaxo2&show_icons=true&theme=rose_pine)
+![Contribution animation](https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg)
 
 
 📫 **Connect with me:**  
