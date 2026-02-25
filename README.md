@@ -1,42 +1,53 @@
 ## Hi, I’m Adriana Guerrero 👋
 
-🎓 Graduate student at Texas A&M University (MS-MIS)  
-🌟 Project & Program Management | Infrastructure | Cybersecurity  
-💗 Interested in cloud infrastructure, security, and technical program management  
+**MS-MIS @ Texas A&M University**  
+**Infrastructure • Technical Program / Project Management • Security-minded**
 
-### What I’m working on
-- Infrastructure and cloud-focused coursework (AWS, networking, databases)
-- Program and process optimization projects
-- Cybersecurity and systems design fundamentals
+I work at the intersection of **cloud infrastructure, systems, and program execution**, with a focus on building reliable, well-structured processes that help technical teams deliver.
 
-### Technical Skills
-- Cloud: AWS (EC2, VPC, IAM, LAMP stack)
-- Networking & Systems: Linux, MariaDB, SQL
-- Tools: GitHub, Smartsheet, Microsoft Suite
-- Security: Cybersecurity fundamentals, risk & policy awareness
+---
 
-### Goals for 2026
-- Strengthen cloud and infrastructure expertise  
-- Build a consistent GitHub project portfolio  
-- Contribute to technical and security-focused repositories  
+## 🔧 System Focus
 
-### 📊 GitHub Snapshot
-![Contribution animation](https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg)
+- **Cloud & Infrastructure:** AWS, networking, databases  
+- **Program Execution:** process optimization, cross-functional coordination  
+- **Security:** fundamentals, risk & policy awareness  
+- **Currently:** building a consistent, infrastructure-focused GitHub portfolio
 
+---
 
-📫 **Connect with me:**  
+## 🧰 Technical Toolbox
+
+**Cloud**
+- AWS (EC2, VPC, IAM), LAMP stack
+
+**Systems & Data**
+- Linux, MariaDB, SQL
+
+**Program & Tools**
+- GitHub, Smartsheet, Microsoft 365
+
+**Security**
+- Cybersecurity fundamentals, risk & policy awareness
+
+---
+
+## 🎯 2026 Goals
+- Deepen cloud and infrastructure expertise  
+- Ship end-to-end technical projects  
+- Contribute to security-focused repositories  
+
+---
+
+## 📊 Contribution Activity
+_Automated via GitHub Actions_
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/adrianatamu/
-<!--
-**adrianaxo2/adrianaxo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... your mom
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
