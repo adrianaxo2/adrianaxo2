@@ -18,53 +18,66 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/adrianatamu">
-    <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:adrianaw224@tamu.edu">
-    <img src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
+    <img
+      src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22"
+      alt="Email"
+    />
   </a>
 </div>
 
 ---
-<div align="center">
+
+<div align="center" style="width:100%;">
   <h3>▸ Stack</h3>
 
-  <table>
+  <table width="100%">
     <tr>
       <td align="center" width="50%">
-        ☁️ <b>Cloud</b><br/><br/>
-        <img src="https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22"/>
+        ☁️ <b>Cloud</b><br /><br />
+        <img src="https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22" alt="EC2" />
+        <img src="https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22" alt="VPC" />
+        <img src="https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22" alt="IAM" />
+        <img src="https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22" alt="LAMP" />
+        <img src="https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22" alt="Linux" />
       </td>
+
       <td align="center" width="50%">
-        💻 <b>Languages</b><br/><br/>
-        <img src="https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22"/>
+        ✨ <b>Languages</b><br /><br />
+        <img src="https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22" alt="CSS" />
+        <img src="https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22" alt="Bash" />
+        <img src="https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22" alt="SQL" />
+        <img src="https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22" alt="MariaDB" />
       </td>
     </tr>
+
     <tr>
-      <td align="center">
-        🛠️ <b>Tools</b><br/><br/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22"/>
+      <td align="center" width="50%">
+        🛠️ <b>Tools</b><br /><br />
+        <img src="https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22" alt="Smartsheet" />
+        <img src="https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22" alt="Microsoft 365" />
       </td>
-      <td align="center">
-        🛡️ <b>Security</b><br/><br/>
-        <img src="https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22"/>
-        <img src="https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22"/>
+
+      <td align="center" width="50%">
+        💌 <b>Security</b><br /><br />
+        <img src="https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22" alt="Risk & Policy" />
+        <img src="https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22" alt="Access Control" />
+        <img src="https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22" alt="Security Fundamentals" />
       </td>
     </tr>
   </table>
 </div>
+
+---
+
 <div align="center">
   <h3>▸ Activity</h3>
 
