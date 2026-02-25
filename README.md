@@ -56,32 +56,9 @@
 
 </div>
 
----
-
-<div align="center">
-
-### ▸ 2026
-
-```bash
-$ ./current_mission.sh
-
-[+] Deepening cloud & infrastructure expertise
-[+] Shipping end-to-end technical projects
-[+] Contributing to security-focused repos
-
-> Status: EXECUTING ▓▓▓▓▓▓░░░░ 65%
-```
-
-</div>
-
----
 
 <!-- FOOTER -->
 <div align="center">
-
-`TPM · Cloud Infrastructure · Systems · Security · MS-MIS @ Texas A&M · she/her · Texas, USA`
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff80c0,100:c2185b&height=90&section=footer&animation=twinkling" width="100%"/>
 </div>
