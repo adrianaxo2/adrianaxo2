@@ -1,54 +1,43 @@
 <img src="assets/banner.png" width="100%" />
-## Hi, I’m Adriana Guerrero
 
-Infrastructure & Technical Program Management  
-Cloud · Systems · Security-minded  
-MS-MIS @ Texas A&M University  
 
-I work at the intersection of cloud infrastructure, systems thinking, and program execution — helping technical teams deliver reliable, well-structured solutions with clarity and intention.
+# Hi, I’m Adriana Guerrero 👋  
+**Infrastructure • Systems • Program Execution**  
+💗 **MS-MIS @ Texas A&M** | ☁️ Cloud + Systems | 🔐 Security-minded TPM
+
+I sit at the intersection of **cloud infrastructure, systems thinking, and program execution** — helping technical teams deliver **reliable, well-structured** outcomes.
 
 ---
 
 ## ✨ What I’m Building
-
-Cloud & infrastructure projects (AWS, networking, databases)  
-Program & process optimization for technical teams  
-Security-minded systems and risk awareness  
-
----
-
-## ✨ Technical Focus
-
-**Cloud & Infrastructure**  
-AWS (EC2, VPC, IAM), LAMP stack  
-
-**Systems & Data**  
-Linux, MariaDB, SQL  
-
-**Program & Tools**  
-GitHub, Smartsheet, Microsoft 365  
-
-**Security**  
-Cybersecurity fundamentals, risk & policy awareness  
+💌 Cloud & infrastructure projects (**AWS, networking, databases**)  
+✨ Program + process optimization for technical teams  
+❤️ Security-minded systems + risk awareness  
 
 ---
 
-## 🎯 2026 Goals
-
-Deepen cloud and infrastructure expertise  
-Ship end-to-end technical projects  
-Contribute to security-focused repositories  
+## 🧰 Technical Toolbox
+**Cloud** — AWS (EC2, VPC, IAM), LAMP  
+**Systems + Data** — Linux, MariaDB, SQL  
+**Program + Tools** — GitHub, Smartsheet, Microsoft 365  
+**Security** — fundamentals, risk & policy awareness  
 
 ---
 
-## 💫 Activity Snapshot
+## 🎀 2026 Focus
+✨ Deepen cloud + infrastructure expertise  
+💗 Ship end-to-end technical projects  
+🌟 Contribute to security-focused repos  
+
+---
+
+## 💫 Activity
+<img src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg" width="100%" />
 
 ![Contribution animation](https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg)
-
 
 
 ---
 
 ## 💌 Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/adrianatamu/
+🌟 LinkedIn: https://www.linkedin.com/in/adrianatamu/
