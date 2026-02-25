@@ -38,43 +38,48 @@
   <div>
     <p><b>☁️ Cloud</b></p>
     <p>
-      <img src="https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22" alt="EC2" />
-      <img src="https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22" alt="VPC" />
-      <img src="https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22" alt="IAM" />
-      <img src="https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22" alt="LAMP" />
-      <img src="https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22" alt="Linux" />
+      <img src="https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22" />
     </p>
-
     <p><b>✨ Languages</b></p>
     <p>
-      <img src="https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22" alt="Python" />
-      <img src="https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22" alt="CSS" />
-      <img src="https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22" alt="Bash" />
-      <img src="https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22" alt="SQL" />
-      <img src="https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22" alt="MariaDB" />
+      <img src="https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22" />
     </p>
-
     <p><b>🛠️ Tools</b></p>
     <p>
-      <img src="https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22" alt="Smartsheet" />
-      <img src="https://img.shields.io/badge/Jira-ff4da6?style=flat-square&labelColor=161b22" alt="Jira" />
-      <img src="https://img.shields.io/badge/Confluence-ff4da6?style=flat-square&labelColor=161b22" alt="Confluence" />
-      <img src="https://img.shields.io/badge/Grafana-ff4da6?style=flat-square&labelColor=161b22" alt="Grafana" />
-      <img src="https://img.shields.io/badge/Postman-ff4da6?style=flat-square&labelColor=161b22" alt="Postman" />
-      <img src="https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22" alt="Microsoft 365" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Jira-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Confluence-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Grafana-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Postman-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22" />
+    </p>
+    <p><b>🤖 AI</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/Generative_AI-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/AI_for_Productivity-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/AI_in_Workflows-ff4da6?style=flat-square&labelColor=161b22" />
     </p>
 
-    <p><b>💌 Security</b></p>
+  <p><b>💌 Security</b></p>
     <p>
-      <img src="https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22" alt="Risk & Policy" />
-      <img src="https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22" alt="Access Control" />
-      <img src="https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22" alt="Security Fundamentals" />
+      <img src="https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22" />
     </p>
+
   </div>
 </div>
-
 
 <!-- ACTIVITY -->
 <div align="center">
