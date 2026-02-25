@@ -13,23 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake
-      with:
-  github_user_name: adrianaxo2
-  outputs: |
-    dist/snake.svg
-  color_snake: "#ff4da6"
-  color_dots: |
-    #2a0f1f
-    #4b1633
-    #7a1f4f
-    #b83273
-    #ff4da6
         uses: Platane/snk@v3
         with:
           github_user_name: adrianaxo2
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg
+          color_snake: "#ff4da6"
+          color_dots: |
+            #2a0f1f
+            #4b1633
+            #7a1f4f
+            #b83273
+            #ff4da6
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
