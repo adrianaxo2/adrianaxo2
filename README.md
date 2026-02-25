@@ -5,7 +5,6 @@
     width="100%"
     alt="Adriana Guerrero Header"
   />
-</div>
 
 <div align="center">
   <img
