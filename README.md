@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=Technical+Program+Manager+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+EC2+%7C+VPC+%7C+IAM+%7C+LAMP+Stack;MS-MIS+%40+Texas+A%26M+%7C+Security-Minded+TPM"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+EC2+%7C+VPC+%7C+IAM+%7C+LAMP+Stack"
     alt="Typing Intro"
   />
 </div>
@@ -60,11 +60,11 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="50%">
-        <b>📌 Certifications</b><br /><br />
+        <b>⭐ Certifications</b><br /><br />
         CompTIA Security+<br />
       </td>
       <td align="center" valign="top" width="50%">
-        <b> ⭐What I Build </b><br /><br />
+        <b> 💗 What I Build </b><br /><br />
         working on updating this atm
       </td>
     </tr>
