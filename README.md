@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/adrianatamu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/adrianatamu)
 [![Email](https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:adrianaw224@tamu.edu)
 
 </div>
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-### ▸ Technical Focus
+### ▸ Stack
 
-**Cloud**
+**Cloud & Infrastructure**
 
 ![EC2](https://img.shields.io/badge/EC2-ff4da6?style=flat-square&logo=amazon-ec2&logoColor=white&labelColor=161b22)
 ![VPC](https://img.shields.io/badge/VPC-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=161b22)
@@ -30,13 +30,19 @@
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22)
 ![Linux](https://img.shields.io/badge/Linux-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=161b22)
 
-**Systems & Data**
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-ff4da6?style=flat-square&logo=python&logoColor=white&labelColor=161b22)
+![HTML](https://img.shields.io/badge/HTML-ff4da6?style=flat-square&logo=html5&logoColor=white&labelColor=161b22)
+![CSS](https://img.shields.io/badge/CSS-ff4da6?style=flat-square&logo=css3&logoColor=white&labelColor=161b22)
+![Bash](https://img.shields.io/badge/Bash-ff4da6?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=161b22)
+
+**Data & Systems**
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&logo=mariadb&logoColor=white&labelColor=161b22)
 ![SQL](https://img.shields.io/badge/SQL-ff4da6?style=flat-square&logo=postgresql&logoColor=white&labelColor=161b22)
-![Bash](https://img.shields.io/badge/Bash-ff4da6?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=161b22)
 
-**Program Execution**
+**Tools & Execution**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&logo=github-actions&logoColor=white&labelColor=161b22)
 ![Smartsheet](https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&logo=smartsheet&logoColor=white&labelColor=161b22)
