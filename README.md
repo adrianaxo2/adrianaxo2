@@ -1,4 +1,3 @@
-```txt
 ────────────────────────────────────────────
  INFRASTRUCTURE CONTROL ROOM
  Adriana Guerrero
