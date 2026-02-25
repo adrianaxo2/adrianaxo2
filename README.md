@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/main/assets/banner.png" width="100%" />
 
 # Hi, I’m Adriana Guerrero 👋  
-**Infrastructure • Systems • Program Execution**
+Infrastructure • Systems • Program Execution
 
 💗 MS-MIS @ Texas A&M  
 ☁️ Cloud + Systems  
@@ -12,10 +12,9 @@ I work at the intersection of **cloud infrastructure, systems thinking, and prog
 ---
 
 ## ✨ What I’m Building
-💌 Cloud & infrastructure projects across AWS, networking, and databases  
-✨ Program and process optimization that helps technical teams move faster  
-❤️ Security-minded systems with a strong focus on risk awareness  
-
+- Cloud & infrastructure systems (AWS, networking, data platforms)
+- Technical program execution and process optimization
+- Security-aware systems and risk-informed design
 ---
 
 ## 🧰 Technical Toolbox
@@ -41,9 +40,7 @@ Fundamentals, risk & policy awareness
 ---
 
 ### 🧬 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg" alt="Contribution Snake"/>
-</p>
+
 <img src="https://raw.githubusercontent.com/adrianaxo2/adrianaxo2/output/snake.svg" width="100%" />
 
 ---
