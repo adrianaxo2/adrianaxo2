@@ -1,8 +1,8 @@
 ## Hi, I’m Adriana Guerrero 👋
 
 🎓 Graduate student at Texas A&M University (MS-MIS)  
-💼 Project & Program Management | Infrastructure | Cybersecurity  
-🔐 Interested in cloud infrastructure, security, and technical program management  
+🌟 Project & Program Management | Infrastructure | Cybersecurity  
+💗 Interested in cloud infrastructure, security, and technical program management  
 
 ### What I’m working on
 - Infrastructure and cloud-focused coursework (AWS, networking, databases)
