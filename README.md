@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=Technical+Program+Manager+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+Systems+%7C+Security-Minded+%7C+MS-MIS+%40+Texas+A%26M;she%2Fher+%7C+Texas%2C+USA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=ff4da6&center=true&vCenter=true&width=620&lines=Technical+Program+Manager+%E2%80%A2+Cloud+Infrastructure;AWS+%7C+EC2+%7C+VPC+%7C+IAM+%7C+LAMP+Stack;MS-MIS+%40+Texas+A%26M+%7C+Security-Minded+TPM" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,7 +18,11 @@
 
 ---
 
+<div align="center">
+
 ### ▸ Stack
+
+</div>
 
 | | |
 |---|---|
@@ -38,8 +42,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=adrianaxo2&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=666666&stroke=ff4da6&sideNums=ffffff&currStreakNum=ffffff" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=adrianaxo2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&ring_color=ff4da6" height="160"/>
 
 </div>
 
