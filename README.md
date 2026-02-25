@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0020,100:0d1117&height=200&section=header&text=ADRIANA%20GUERRERO&fontSize=58&fontColor=ff4da6&animation=twinkling&fontAlignY=52&desc=Infrastructure%20%E2%80%A2%20Systems%20%E2%80%A2%20Program%20Execution&descSize=14&descAlignY=72&descColor=b83273&stroke=ff4da6&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff4da6,50:c2185b,100:ff80c0&height=200&section=header&text=ADRIANA%20GUERRERO&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=52&desc=Infrastructure%20%E2%80%A2%20Systems%20%E2%80%A2%20Program%20Execution&descSize=14&descAlignY=72&descColor=ffe0ef&stroke=ffffff&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- TYPING LINE -->
@@ -22,21 +22,26 @@
 
 <div align="center">
 
-### `> I build infrastructure that just works.`
+```
+cloud infrastructure · systems thinking · program execution
+```
 
-**Cloud · Systems · Program Execution · Security**
-
-*Reliability, clarity, and execution at scale — with intention.*
+**I build systems that are resilient, documented, and shipped with clarity.**
 
 </div>
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=9999&pause=9999&color=ff4da6&vCenter=true&width=220&lines=%E2%96%B8+Technical+Focus" alt="Technical Focus"/>
+<div align="center">
+
+### ▸ Technical Focus
+
+</div>
 
 <details>
-<summary>&nbsp;<b>☁️ &nbsp;Cloud &amp; Infrastructure</b></summary>
+<summary><b>&nbsp;&nbsp;☁️ &nbsp;Cloud & Infrastructure</b></summary>
 <br/>
+<div align="center">
 
 ![AWS EC2](https://img.shields.io/badge/EC2-ff4da6?style=flat-square&logo=amazon-ec2&logoColor=white&labelColor=0d1117)
 ![AWS VPC](https://img.shields.io/badge/VPC-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0d1117)
@@ -44,61 +49,72 @@
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-ff4da6?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)
 
+</div>
 </details>
 
 <details>
-<summary>&nbsp;<b>🗄️ &nbsp;Systems &amp; Data</b></summary>
+<summary><b>&nbsp;&nbsp;🗄️ &nbsp;Systems & Data</b></summary>
 <br/>
+<div align="center">
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&logo=mariadb&logoColor=white&labelColor=0d1117)
 ![SQL](https://img.shields.io/badge/SQL-ff4da6?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
 ![Bash](https://img.shields.io/badge/Bash-ff4da6?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0d1117)
 
+</div>
 </details>
 
 <details>
-<summary>&nbsp;<b>📋 &nbsp;Program Execution</b></summary>
+<summary><b>&nbsp;&nbsp;📋 &nbsp;Program Execution</b></summary>
 <br/>
+<div align="center">
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&logo=github-actions&logoColor=white&labelColor=0d1117)
 ![Smartsheet](https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&logo=smartsheet&logoColor=white&labelColor=0d1117)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&logo=microsoft&logoColor=white&labelColor=0d1117)
 
+</div>
 </details>
 
 <details>
-<summary>&nbsp;<b>🔐 &nbsp;Security &amp; Risk</b></summary>
+<summary><b>&nbsp;&nbsp;🔐 &nbsp;Security & Risk</b></summary>
 <br/>
+<div align="center">
 
 ![Risk & Policy](https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d1117)
 ![Access Control](https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0d1117)
 ![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&logo=datadog&logoColor=white&labelColor=0d1117)
 
+</div>
 </details>
 
 ---
 
-<!-- WHO I AM — pink left border via HTML blockquote trick -->
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   I'm Adriana — a technical program manager who builds              │
-│   infrastructure that just works.                                   │
-│                                                                     │
-│   I bridge systems complexity and execution clarity,                │
-│   designing solutions that are resilient, documented,               │
-│   and intentional.                                                  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   TPM focused on cloud infrastructure and systems.  │
+│   I bridge technical complexity and execution        │
+│   clarity — resilient, documented, intentional.     │
+│                                                      │
+│   MS-MIS @ Texas A&M  ·  she/her  ·  Texas, USA    │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=9999&pause=9999&color=ff4da6&vCenter=true&width=100&lines=%E2%96%B8+2026" alt="2026"/>
+<div align="center">
+
+### ▸ 2026
+
+</div>
+
+<div align="center">
 
 ```bash
 $ ./current_mission.sh
@@ -110,11 +126,15 @@ $ ./current_mission.sh
 > Status: EXECUTING ▓▓▓▓▓▓░░░░ 65%
 ```
 
+</div>
+
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=9999&pause=9999&color=ff4da6&vCenter=true&width=260&lines=%F0%9F%A7%AC+Building+in+Public" alt="Building in Public"/>
-
 <div align="center">
+
+### ▸ Building in Public
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ffffff&area=true&area_color=1a0020&hide_border=true" width="100%"/>
 
@@ -129,7 +149,7 @@ $ ./current_mission.sh
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaxo2&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4da6&text_color=c9d1d9" height="145"/>
 
 <br/><br/>
-<sub>Automated via GitHub Actions &nbsp;·&nbsp; Updated daily</sub>
+<sub>automated via github actions &nbsp;·&nbsp; updated daily</sub>
 
 </div>
 
@@ -137,5 +157,5 @@ $ ./current_mission.sh
 
 <!-- FOOTER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a0020&height=90&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff80c0,100:c2185b&height=90&section=footer&animation=twinkling" width="100%"/>
 </div>
