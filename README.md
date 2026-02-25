@@ -30,7 +30,6 @@ I bridge the gap between **technical systems and execution** — helping teams d
 ---
 
 ## 📊 Contribution Activity
-_Automated via GitHub Actions_
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
