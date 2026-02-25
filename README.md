@@ -18,58 +18,72 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/adrianatamu">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
   </a>
   <a href="mailto:adrianaw224@tamu.edu">
-    <img
-      src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
   </a>
 </div>
 
 ---
 
+<!-- STACK -->
+<div align="center">
+  <h3>▸ Stack</h3>
+
+  <div>
+    <p><b>☁️ Cloud</b></p>
+    <img src="https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22" />
+  </div>
+
+  <br />
+
+  <div>
+    <p><b>✨ Languages</b></p>
+    <img src="https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22" />
+  </div>
+
+  <br />
+
+  <div>
+    <p><b>🛠️ Tools</b></p>
+    <img src="https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Jira-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Confluence-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Grafana-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Postman-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22" />
+  </div>
+
+  <br />
+
+  <div>
+    <p><b>💌 Security</b></p>
+    <img src="https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22" />
+  </div>
+</div>
+
 ---
 
-### ▸ Stack
-
-**☁️ Cloud**  
-![EC2](https://img.shields.io/badge/EC2-ff4da6?style=flat-square&labelColor=161b22)
-![VPC](https://img.shields.io/badge/VPC-ff4da6?style=flat-square&labelColor=161b22)
-![IAM](https://img.shields.io/badge/IAM-ff4da6?style=flat-square&labelColor=161b22)
-![LAMP](https://img.shields.io/badge/LAMP-ff4da6?style=flat-square&labelColor=161b22)
-![Linux](https://img.shields.io/badge/Linux-ff4da6?style=flat-square&labelColor=161b22)
-
-**✨ Languages**  
-![Python](https://img.shields.io/badge/Python-ff4da6?style=flat-square&labelColor=161b22)
-![HTML](https://img.shields.io/badge/HTML-ff4da6?style=flat-square&labelColor=161b22)
-![CSS](https://img.shields.io/badge/CSS-ff4da6?style=flat-square&labelColor=161b22)
-![Bash](https://img.shields.io/badge/Bash-ff4da6?style=flat-square&labelColor=161b22)
-![SQL](https://img.shields.io/badge/SQL-ff4da6?style=flat-square&labelColor=161b22)
-![MariaDB](https://img.shields.io/badge/MariaDB-ff4da6?style=flat-square&labelColor=161b22)
-
-**🛠️ Tools**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff4da6?style=flat-square&labelColor=161b22)
-![Smartsheet](https://img.shields.io/badge/Smartsheet-ff4da6?style=flat-square&labelColor=161b22)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-ff4da6?style=flat-square&labelColor=161b22)
-
-**💌 Security**  
-![Risk & Policy](https://img.shields.io/badge/Risk_%26_Policy-ff4da6?style=flat-square&labelColor=161b22)
-![Access Control](https://img.shields.io/badge/Access_Control-ff4da6?style=flat-square&labelColor=161b22)
-![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-ff4da6?style=flat-square&labelColor=161b22)
----
-
+<!-- ACTIVITY -->
 <div align="center">
   <h3>▸ Activity</h3>
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ff4da6&area=true&area_color=2d0020&hide_border=true&radius=6"
     width="100%"
-    alt="Contribution Graph"
   />
 
   <br /><br />
@@ -77,12 +91,12 @@
   <img
     src="https://streak-stats.demolab.com?user=adrianaxo2&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=666666&stroke=ff4da6&sideNums=ffffff&currStreakNum=ffffff"
     height="160"
-    alt="GitHub Streak"
   />
 </div>
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:ff80c0,100:c2185b&height=90&section=footer&animation=twinkling"
