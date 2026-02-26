@@ -98,9 +98,9 @@
 ### ▸ Activity
 
 ![Contribution Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ff4da6&area=true&area_color=2d0020&hide_border=true&radius=6&custom_title=Adriana%20Guerrero%27s%20Contribution%20Graph#gh-dark-mode-only)
-
+<div align="center">
 ![GitHub Streak Dark](https://streak-stats.demolab.com?user=adrianaxo2&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=666666&stroke=ff4da6&sideNums=ffffff&currStreakNum=ffffff#gh-dark-mode-only)
-
+</div>
 <br />
 
 <!-- FOOTER -->
