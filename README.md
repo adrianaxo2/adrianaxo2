@@ -98,10 +98,8 @@
 ### ▸ Activity
 
 ![Contribution Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ff4da6&area=true&area_color=2d0020&hide_border=true&radius=6&custom_title=Adriana%20Guerrero%27s%20Contribution%20Graph#gh-dark-mode-only)
-![Contribution Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=ffffff&color=c2185b&line=c2185b&point=ff4da6&area=true&area_color=ffd1e6&hide_border=true&radius=6&custom_title=Adriana%20Guerrero%27s%20Contribution%20Graph#gh-light-mode-only)
 
 ![GitHub Streak Dark](https://streak-stats.demolab.com?user=adrianaxo2&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=666666&stroke=ff4da6&sideNums=ffffff&currStreakNum=ffffff#gh-dark-mode-only)
-![GitHub Streak Light](https://streak-stats.demolab.com?user=adrianaxo2&theme=default&hide_border=true&background=FFFFFF&ring=c2185b&fire=ff4da6&currStreakLabel=c2185b&sideLabels=c2185b&dates=8c8c8c&stroke=f4b3d1&sideNums=5a5a5a&currStreakNum=5a5a5a#gh-light-mode-only)
 
 <br />
 
