@@ -96,7 +96,7 @@
 
 <!-- ACTIVITY -->
 <div align="center">
- ▸ Activity
+ <h3>▸ Activity </h3>
 
 ![Contribution Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=adrianaxo2&bg_color=0d1117&color=ff4da6&line=ff4da6&point=ff4da6&area=true&area_color=2d0020&hide_border=true&radius=6&custom_title=Adriana%20Guerrero%27s%20Contribution%20Graph#gh-dark-mode-only)
 
